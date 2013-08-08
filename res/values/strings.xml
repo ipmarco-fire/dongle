@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dongle_Upgrade</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="check_upgrade">检测升级</string>
+    <string name="download">下载</string>
+    <string name="cancel">取消</string>
+    <string name="download_fail">下载失败</string>
+    <string name="download_success">下载成功</string>
+    <string name="server">手机升级</string>
+    <string name="server2">p2p升级</string>
+    <string name="ok">确定</string>
+
+</resources>
